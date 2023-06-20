@@ -2,22 +2,14 @@
 ###### Sobre a Gabriela
 Sou nova na programação, mas estou gostando bastante.
 
+### Detalhes
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriela-scsouz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src='https://img.shields.ib/badge/LinkedIn-0077B5?style-for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>](www.linkedin.com/in/gabriela-ssouza/)
+### Projeto
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriela-scsouz&repo=TikTok&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**gabriela-scsouz/gabriela-scsouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagem Utilizada
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-scsouz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

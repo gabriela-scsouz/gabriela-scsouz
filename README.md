@@ -1,6 +1,6 @@
 ### Olá pessoal tudo bem?👋
 ###### Sobre a Gabriela
-Sou nova na programação, mas estou gostando bastante
+Sou nova na programação, mas estou gostando bastante.
 
 
 <!--

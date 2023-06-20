@@ -4,6 +4,7 @@ Sou nova na programação, mas estou gostando bastante.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriela-scsouz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src='https://img.shields.ib/badge/LinkedIn-0077B5?style-for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>](www.linkedin.com/in/gabriela-ssouza/)
 
 
 <!--

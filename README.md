@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá pessoal tudo bem?👋
+######Sobre a Gabriela
+Sou nova na programação, mas estou gostando bastante
+
 
 <!--
 **gabriela-scsouz/gabriela-scsouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
